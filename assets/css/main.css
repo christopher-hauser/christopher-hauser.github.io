@@ -3274,3 +3274,7 @@ i {
 #send-message-button {
 	margin-top: 15px;
 }
+
+#click-resume:hover {
+	color: #dd9255 !important;
+}
