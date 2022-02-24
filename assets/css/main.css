@@ -3269,3 +3269,7 @@ i {
 .resume-bullets {
 	margin-top: 1em;
 }
+
+#send-message-button {
+	margin-top: 15px;
+}
